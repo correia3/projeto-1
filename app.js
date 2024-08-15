@@ -6,7 +6,7 @@ function click01(){
 }
 
 function click02(){
-    console.log('eu amo JS');
+    console.log('eu amo JavaScript!');
 }
 
 function click03(){
